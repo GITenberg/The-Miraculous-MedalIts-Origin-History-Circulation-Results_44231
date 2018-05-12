@@ -1,0 +1,27 @@
+_repo: The-Miraculous-MedalIts-Origin-History-Circulation-Results_44231
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44231-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Aladel, Jean Marie
+    alias: Aladel, M.
+    gutenberg_agent_id: '42643'
+    url: http://www.gutenberg.org/2009/agents/42643
+description: ''
+gutenberg_issued: '2013-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Labouré, Catherine, Saint, 1806-1876'
+- !lcsh 'Miraculous Medal'
+- !lcsh 'Mary, Blessed Virgin, Saint'
+title: 'The Miraculous Medal: Its Origin, History, Circulation, Results'
+url: http://www.gutenberg.org/ebooks/44231
